@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-HTML-розмітка макету сторінки домашнього завдання #1, без CSS оформлення
+https://alexsidol.github.io/goit-markup-hw-01/
